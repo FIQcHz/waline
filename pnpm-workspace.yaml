@@ -68,3 +68,6 @@ trustPolicy: no-downgrade
 
 trustPolicyIgnoreAfter: 720
 trustPolicyExcludePrune: true
+
+onlyBuiltDependencies:
+  - core-js-pure
